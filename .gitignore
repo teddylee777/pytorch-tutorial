@@ -8,7 +8,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 */실습/*
+실습/
 .DS_Store
+
 
 # IPython
 profile_default/

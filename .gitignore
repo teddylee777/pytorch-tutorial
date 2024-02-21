@@ -10,6 +10,14 @@
 */실습/*
 실습/
 .DS_Store
+*/data/*
+*/submissions/*
+*/.vscode/*
+*.csv
+*.zip
+
+competition.py
+BASE-양식.ipynb
 
 
 # IPython

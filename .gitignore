@@ -15,6 +15,12 @@
 */.vscode/*
 *.csv
 *.zip
+*.png
+*.jpg
+프로젝트/
+anime-faces/
+*.pth
+data/FashionMNIST/
 
 competition.py
 BASE-양식.ipynb
